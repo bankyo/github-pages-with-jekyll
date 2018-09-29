@@ -1,3 +1,7 @@
+---
+title: "Building a FileMaker application!"
+---
+
 Begin by working with your team to look for processes that can be streamlined, paperwork that can be reduced, and other ways the team can be made efficient. From this list, choose one that looks easy to address but that can have immediate impact.
 Next, follow a classic design process to describe your problem clearly and plan a solution. 
 
